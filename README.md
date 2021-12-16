@@ -1,4 +1,4 @@
-#PROTOPAINT.01
+#PROTOPAINT.01 <img src= http://unmaintained.tech/badge.svg />
 (2019/20)
 Panel de dibujo del tipo Paint.
 
